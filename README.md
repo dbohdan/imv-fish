@@ -4,6 +4,10 @@
 [renameutils](https://www.nongnu.org/renameutils/)
 written in pure
 [fish shell](https://fishshell.com).
+The command opens
+[`vared`](https://fishshell.com/docs/current/cmds/vared.html)
+to let you interactively rename
+an individual file or directory.
 It is useful on systems
 with a port of fish but not renameutils,
 like OpenBSD.
